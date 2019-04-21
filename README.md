@@ -10,8 +10,8 @@ The services sends and receives data in JSON format
 
 Installation:
 
-Import the project in Eclipse
+Import the project in Eclipse.
 Configure the database in application.properties file.
-Run the InventoryApplication.java file as Java Application
-It is deployed on Tomcat Server
+Run the InventoryApplication.java file as Java Application.
+It is deployed on Tomcat Server.
 Use the Postman tool to test the application on localhost.
